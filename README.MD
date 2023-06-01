@@ -1,4 +1,4 @@
-# EBAC - Fullstack Java: Exercício Módulo HTML
+# EBAC - Fullstack Java: Exercício Módulo GIT
 
 Link do curso: https://ebaconline.com.br/full-stack-java
 
